@@ -10,16 +10,7 @@
   "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:33556"
 }
 
-
-{
-  "listen":  "socks://127.0.0.1:1080",
-  "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:33556"
-}
-
-{
-  "listen":  "socks://127.0.0.1:1080",
-  "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:33556"
-}
+# 【错误】无法访问 https://www.67867867.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/1/config.json：HTTP Error 500: Internal Server Error
 
 
 {
@@ -32,6 +23,9 @@
   "listen":  "socks://127.0.0.1:1080",
   "proxy": "https://dongtaiwang.com:dongtaiwang.com@fan.193919.xyz:33556"
 }
+
+# 【错误】无法访问 https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/1/config.json：HTTP Error 500: Internal Server Error
+
 
 
 {
