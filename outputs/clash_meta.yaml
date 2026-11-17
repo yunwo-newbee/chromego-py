@@ -211,10 +211,3 @@ proxies:
   reduce-rtt: true
   udp-relay-mode: native
   congestion-controller: bbr
-- name: 🌐 UNK-NAIVE-19
-  type: http
-  server: naive1.336892.xyz
-  port: 22338
-  username: dongtaiwang.com
-  password: dongtaiwang.com
-  tls: true
